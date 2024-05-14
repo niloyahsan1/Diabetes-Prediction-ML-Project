@@ -27,9 +27,9 @@ While assessing the SVM model, we experimented with kernels including Linear, RB
 
 ## Contents
 
-- **Notebook**: Jupyter notebook [`Diabetes_Prediction_Project.ipynb`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Diabetes_Prediction_Project.ipynb) containing the project code and analysis.
-- **Dataset**: CSV file [`Diabetes_Prediction_Dataset.csv`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Diabetes_Prediction_Dataset.csv) containing the dataset used for training and testing.
-- **Report**: Project report [`Project_Report.pdf`]() summarizing the project objectives, methodology, results, and conclusions.
+- **Notebook**: Jupyter notebook [`Diabetes Prediction Project.ipynb`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Diabetes%20Prediction%20Project.ipynb) containing the project code and analysis.
+- **Dataset**: CSV file [`Diabetes Prediction Dataset.csv`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Diabetes%20Prediction%20Dataset.csv) containing the dataset used for training and testing.
+- **Report**: Project report [`Project Report.pdf`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Project%20Report.pdf) summarizing the project objectives, methodology, results, and conclusions.
 
 ## Usage
 
